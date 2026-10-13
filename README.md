@@ -178,6 +178,10 @@ Instagram blocks most cloud and datacenter IP addresses. Use a home connection o
 **Can it get followers, or every post of a user?**
 No. Instagram hides those from logged-out visitors. The [ToolzerHub API](https://toolzerhub.com/apis/instagram?utm_source=github&utm_medium=readme&utm_campaign=instagram-scraper) returns them.
 
+## Related scrapers
+
+- [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): subreddits, posts, comments, search and user posts
+
 ## Legal and responsible use
 
 This project is for education and for collecting **publicly available** data. You are responsible for how you use it.
