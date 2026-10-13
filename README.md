@@ -144,6 +144,8 @@ Full outputs for every command are in [examples/](examples).
 2. `profile` reads the profile page Instagram serves to iPhone Safari, which carries the profile as JSON, then asks the web app's own profile query for the bio links and category.
 3. `post`, `comments` and `search` send the same GraphQL queries Instagram's website sends for a logged-out visitor, and clean the answer into the fields above.
 
+A longer walkthrough with timed runs and a CSV example: [Instagram scraper in Python](https://toolzerhub.com/blog/instagram-scraper-python?utm_source=github&utm_medium=readme&utm_campaign=instagram-scraper).
+
 ## Limits
 
 - Public data only.
