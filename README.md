@@ -158,7 +158,7 @@ The script is for learning and small jobs. At scale you run into blocks, changin
 
 | | This script | ToolzerHub API |
 |---|---|---|
-| Data | Profiles, single posts, comments, keyword search | 69 endpoints, including followers, following, user posts and reels, stories, similar accounts, hashtags, locations |
+| Data | Profiles, single posts, comments, keyword search | 70 endpoints, including followers, following, user posts and reels, stories, similar accounts, hashtags, locations |
 | Blocks and proxies | Your problem | Handled |
 | When Instagram changes | Wait for a fix here | Fixed on our side |
 | Cost | Free, plus your proxy | 100 free credits a month, then from $0.99 per 1,000 calls |
