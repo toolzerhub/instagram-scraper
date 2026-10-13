@@ -3,11 +3,16 @@
   "username": "natgeo",
   "full_name": "National Geographic",
   "biography": "Step into wonder and find your inner explorer with National Geographic 🌎",
+  "external_url": "http://visitstore.bio/natgeo",
+  "bio_links": [
+    "http://visitstore.bio/natgeo",
+    "https://ngmdomsubs.nationalgeographic.com/servlet/OrdersGateway?cds_mag_code=NGM&cds_page_id=283562&cds_response_key=I5FX10002"
+  ],
+  "category": null,
+  "is_business": false,
   "is_private": false,
   "is_verified": true,
   "followers_count": 268396507,
   "following_count": 194,
-  "has_reels": true,
-  "pronouns": [],
-  "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/683576066_18653628823019133_9051036240972105113_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=9DX3oxEQASoQ7kNvwHSWHJq&_nc_oc=AdqOYV6Uz82b7yfrd2B4KKMOKMMM5rmfPqSfWepiT0cGIuVJmtIS_iPtjgTeP5ZJBHw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=1VysuLxYZw8jkCVNp9HICg&_nc_ss=7ba8c&oh=00_AQPd8uoNBM9-Pm0KWpBcUFBqUTKciG-rcLkP155q1ivdGw&oe=6AD439EB"
+  "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/683576066_18653628823019133_9051036240972105113_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&_nc_ohc=9DX3oxEQASoQ7kNvwEzrLkD&_nc_oc=Adrvb6IwogpcNzxwJPt5vO5tyHi1-qR-HOi363k3jQBbX8HYRRnMOQyBjccmqS8cITI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fgHdmxFB_tmsZle5SYFHHQ&_nc_ss=7ba8c&oh=00_AQNEm8H6SVFATyQ1zQ6chB0v8Cc_rP2c8x9LniPQaGLM6A&oe=6AD439EB"
 }
