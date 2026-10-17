@@ -182,7 +182,11 @@ No. Instagram hides those from logged-out visitors. The [ToolzerHub API](https:/
 
 ## Related scrapers
 
-- [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): subreddits, posts, comments, search and user posts
+- [tiktok-scraper](https://github.com/toolzerhub/tiktok-scraper): public TikTok profiles, videos, comments and hashtags
+- [threads-scraper](https://github.com/toolzerhub/threads-scraper): public Threads profiles, posts, replies and search
+- [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): public subreddits, posts, comments, search and user posts
+- [linkedin-scraper](https://github.com/toolzerhub/linkedin-scraper): public LinkedIn jobs, companies, profiles and posts
+- [google-maps-scraper](https://github.com/toolzerhub/google-maps-scraper): public Google Maps places, details and reviews
 
 ## Legal and responsible use
 
